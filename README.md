@@ -1,2 +1,2 @@
-This is practice repository only for my practice and learning git and github journey.
+No purpose repository, This is practice repository only for my practice and learning git and github journey.
 
